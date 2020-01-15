@@ -1,2 +1,3 @@
-# bash-script
-Skrypt w bashu realizujący dodawanie użytkownika, wyświetlanie informacji o użytkowniku oraz daty i godziny.
+# Skrypt Bash
+
+Skrypt ten został stworzony na potrzeby zaliczenia przedmiotu. Realizuje dodawanie użytkownika, wyświetlanie informacji o użytkowniku oraz daty i godziny.
